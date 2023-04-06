@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APS.net(Entity)", "APS.net(Entity).csproj", "{B862A504-D166-4283-8F0E-507742788BC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APS.net(Entity)", "APS.net(Entity).csproj", "{3EC89865-8804-4A78-B1E8-632D04F723BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B862A504-D166-4283-8F0E-507742788BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B862A504-D166-4283-8F0E-507742788BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B862A504-D166-4283-8F0E-507742788BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B862A504-D166-4283-8F0E-507742788BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC89865-8804-4A78-B1E8-632D04F723BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC89865-8804-4A78-B1E8-632D04F723BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC89865-8804-4A78-B1E8-632D04F723BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC89865-8804-4A78-B1E8-632D04F723BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2AE0736F-39C8-442B-9131-E61E5F2CC114}
+		SolutionGuid = {4F03B646-1CFC-4082-B34F-FFF18A237FFA}
 	EndGlobalSection
 EndGlobal

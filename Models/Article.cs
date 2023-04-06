@@ -28,4 +28,12 @@ namespace APS.net_Entity_.Models
      * dotnet aspnet-codegenerator razorpage -m APS.net_Entity_.Models.Article -dc APS.net_Entity_.Models.MyBlogContext -outDir Pages/Blog -udl --referenceScriptLibraries
      * 
      */
+    /*
+     * Identity:
+     *  - Athentication : Xác định danh tính -> Login,Logout
+     *  - Authorization: Xác thực quyền truy cập
+     *  - Quản lí user: Sign up, User, Role....
+     *  
+     *  /Identity/Account/Login
+     */
 }
